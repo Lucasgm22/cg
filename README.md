@@ -7,3 +7,4 @@ Repository to host Computer Graphics course projects
 - [tictactoe](https://lucasgm22.github.io/cg/tictactoe)
 - [reaction](https://lucasgm22.github.io/cg/reaction)
 - [sierpinski](https://lucasgm22.github.io/cg/sierpinski)
+- [emilly](https://lucasgm22.github.io/cg/emilly)
