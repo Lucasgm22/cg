@@ -9,3 +9,4 @@ Repository to host Computer Graphics course projects
 - [sierpinski](https://lucasgm22.github.io/cg/sierpinski)
 - [emilly](https://lucasgm22.github.io/cg/emilly)
 - [coloredtriangles](https://lucasgm22.github.io/cg/coloredtriangles)
+- [regularpolygons](https://lucasgm22.github.io/cg/regularpolygons)
