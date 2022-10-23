@@ -10,3 +10,4 @@ Repository to host Computer Graphics course projects
 - [emilly](https://lucasgm22.github.io/cg/emilly)
 - [coloredtriangles](https://lucasgm22.github.io/cg/coloredtriangles)
 - [regularpolygons](https://lucasgm22.github.io/cg/regularpolygons)
+- [asteroids](https://lucasgm22.github.io/cg/asteroids)
