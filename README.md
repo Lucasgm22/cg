@@ -11,3 +11,4 @@ Repository to host Computer Graphics course projects
 - [coloredtriangles](https://lucasgm22.github.io/cg/coloredtriangles)
 - [regularpolygons](https://lucasgm22.github.io/cg/regularpolygons)
 - [asteroids](https://lucasgm22.github.io/cg/asteroids)
+- [loadmodel](https://lucasgm22.github.io/cg/loadmodel)
