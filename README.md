@@ -12,3 +12,4 @@ Repository to host Computer Graphics course projects
 - [regularpolygons](https://lucasgm22.github.io/cg/regularpolygons)
 - [asteroids](https://lucasgm22.github.io/cg/asteroids)
 - [loadmodel](https://lucasgm22.github.io/cg/loadmodel)
+- [coloredsun](https://lucasgm22.github.io/cg/coloredsun)
