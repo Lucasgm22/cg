@@ -14,3 +14,4 @@ Repository to host Computer Graphics course projects
 - [loadmodel](https://lucasgm22.github.io/cg/loadmodel)
 - [coloredsun](https://lucasgm22.github.io/cg/coloredsun)
 - [lookat](https://lucasgm22.github.io/cg/lookat)
+- [viewer1](https://lucasgm22.github.io/cg/viewer1)
