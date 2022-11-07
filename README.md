@@ -15,3 +15,4 @@ Repository to host Computer Graphics course projects
 - [coloredsun](https://lucasgm22.github.io/cg/coloredsun)
 - [lookat](https://lucasgm22.github.io/cg/lookat)
 - [viewer1](https://lucasgm22.github.io/cg/viewer1)
+- [starfield](https://lucasgm22.github.io/cg/starfield)
