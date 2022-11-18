@@ -16,3 +16,4 @@ Repository to host Computer Graphics course projects
 - [lookat](https://lucasgm22.github.io/cg/lookat)
 - [viewer1](https://lucasgm22.github.io/cg/viewer1)
 - [starfield](https://lucasgm22.github.io/cg/starfield)
+- [cube](https://lucasgm22.github.io/cg/cube)
